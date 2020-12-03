@@ -1,0 +1,10 @@
+C:\Users\ASUS\Desktop\bibi\Nam_2\Lap_Trinh_truc_quan\sign_in\sign_in\bin\Debug\sign_in.exe.config
+C:\Users\ASUS\Desktop\bibi\Nam_2\Lap_Trinh_truc_quan\sign_in\sign_in\bin\Debug\sign_in.exe
+C:\Users\ASUS\Desktop\bibi\Nam_2\Lap_Trinh_truc_quan\sign_in\sign_in\bin\Debug\sign_in.pdb
+C:\Users\ASUS\Desktop\bibi\Nam_2\Lap_Trinh_truc_quan\sign_in\sign_in\obj\Debug\sign_in.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\bibi\Nam_2\Lap_Trinh_truc_quan\sign_in\sign_in\obj\Debug\sign_in.Form1.resources
+C:\Users\ASUS\Desktop\bibi\Nam_2\Lap_Trinh_truc_quan\sign_in\sign_in\obj\Debug\sign_in.Properties.Resources.resources
+C:\Users\ASUS\Desktop\bibi\Nam_2\Lap_Trinh_truc_quan\sign_in\sign_in\obj\Debug\sign_in.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\bibi\Nam_2\Lap_Trinh_truc_quan\sign_in\sign_in\obj\Debug\sign_in.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\bibi\Nam_2\Lap_Trinh_truc_quan\sign_in\sign_in\obj\Debug\sign_in.exe
+C:\Users\ASUS\Desktop\bibi\Nam_2\Lap_Trinh_truc_quan\sign_in\sign_in\obj\Debug\sign_in.pdb
